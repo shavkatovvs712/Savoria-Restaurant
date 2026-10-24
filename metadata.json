@@ -1,0 +1,6 @@
+{
+  "name": "Sofra Restaurant",
+  "description": "Sofra Restaurant rasmiy sayti: boy milliy va yevropa menyusi, stol bron qilish, ofitsiant POS tizimi, oshxona KDS, kassa va admin paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
